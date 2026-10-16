@@ -1,8 +1,6 @@
 
 -- College Major ROI Analysis
--- SQLite-compatible schema
 
-DROP TABLE IF EXISTS college_major_roi;
 
 CREATE TABLE college_major_roi (
     grad_id TEXT PRIMARY KEY,
